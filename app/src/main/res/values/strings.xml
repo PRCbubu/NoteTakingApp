@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">NewNoteTakingApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_note_available">No Note Available!!!</string>
+    <string name="image">image</string>
+    <string name="type_your_title">Type your Title</string>
+    <string name="type_something">Type something...</string>
+    <string name="note_title">Note Title</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
 </resources>
