@@ -60,6 +60,7 @@ dependencies {
 
     //Coroutines
     implementation(libs.kotlinx.coroutines.android)
+    implementation(libs.androidx.room.ktx)
 
     //Navigation
     implementation(libs.androidx.navigation.fragment.ktx)
